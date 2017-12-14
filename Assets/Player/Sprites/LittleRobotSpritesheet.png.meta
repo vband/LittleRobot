@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 783cb0827e7720346a378aaf96157f70
+timeCreated: 1511733799
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LittleRobotSpritesheet_0
+    21300002: LittleRobotSpritesheet_1
+    21300004: LittleRobotSpritesheet_2
+    21300006: LittleRobotSpritesheet_3
+    21300008: LittleRobotSpritesheet_4
+    21300010: LittleRobotSpritesheet_5
+    21300012: LittleRobotSpritesheet_6
+    21300014: LittleRobotSpritesheet_7
+    21300016: LittleRobotSpritesheet_8
+    21300018: LittleRobotSpritesheet_9
+    21300020: LittleRobotSpritesheet_10
+    21300022: LittleRobotSpritesheet_11
+    21300024: LittleRobotSpritesheet_12
+    21300026: LittleRobotSpritesheet_13
+    21300028: LittleRobotSpritesheet_14
+    21300030: LittleRobotSpritesheet_15
+    21300032: LittleRobotSpritesheet_16
+    21300034: LittleRobotSpritesheet_17
+    21300036: LittleRobotSpritesheet_18
+    21300038: LittleRobotSpritesheet_19
+    21300040: LittleRobotSpritesheet_20
+    21300042: LittleRobotSpritesheet_21
+    21300044: LittleRobotSpritesheet_22
+    21300046: LittleRobotSpritesheet_23
+    21300048: LittleRobotSpritesheet_24
+    21300050: LittleRobotSpritesheet_25
+    21300052: LittleRobotSpritesheet_26
+    21300054: LittleRobotSpritesheet_27
+    21300056: LittleRobotSpritesheet_28
+    21300058: LittleRobotSpritesheet_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 101
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 101
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 101
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 101
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 101
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 101
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40835324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 60
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4361083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 67
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4679752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 60
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44036788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 60
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40349698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 60
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5411746, y: 0.42588577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 61
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6474324, y: 0.4514727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 61
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5411746, y: 0.4217682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 61
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41233802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 61
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44036788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 61
+        width: 67
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47255027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 61
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44036788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42258918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6954967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.69334835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.403497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.72144735, y: 0.5931222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.72144777, y: 0.59594405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 14
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43305337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 14
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5151682, y: 0.34832376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LittleRobotSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 14
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5113764, y: 0.3393053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
